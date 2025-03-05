@@ -46,7 +46,7 @@ public class Ejercicio2 {
         double descuento = valorNomina * porcentaje;
         nominaActual = valorNomina - descuento;
 
-        System.out.println("El valor de su nómina queda en: " + nominaActual);
+        System.out.println("El valor de su nómina según su estrato queda en: " + nominaActual);
     }
 }
 
