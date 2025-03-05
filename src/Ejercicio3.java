@@ -49,7 +49,7 @@ public class Ejercicio3 {
                     System.out.println("Gracias por tu atención.");
                     break;
                 default:
-                    System.out.println("Opción inválida, intente nuevamente.");
+                    System.out.println("Opción inválida");
             }
 
         } while (categoria != 5);
